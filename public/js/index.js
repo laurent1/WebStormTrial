@@ -24,6 +24,10 @@
   });
 
   var dog = new Animal();
+  var rrr = 0;
+  
+  console.log(rrr);
+  
   dog.name = "Lucky";
   dog.legCount = 3;
   dog.feed("Lamb Shank");
